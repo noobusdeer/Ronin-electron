@@ -1,3 +1,4 @@
-[submodule "Ronin"]
-	path = Ronin
+
+[submodule "src/Ronin"]
+	path = src/Ronin
 	url = https://github.com/hundredrabbits/Ronin.git
