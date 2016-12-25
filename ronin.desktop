@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=/opt/ronin/Ronin-electron
+Path=/opt/ronin/
+Name=Ronin
+Icon=/opt/ronin/resources/app/Ronin/media/icon_128.png
+Terminal=false
