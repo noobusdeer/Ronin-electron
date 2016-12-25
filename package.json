@@ -1,0 +1,15 @@
+{
+  "name": "Ronin-electron",
+  "version": "1.0.0",
+  "description": "Visual Tool http://wiki.xxiivv.com/ronin",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/noobusdeer/Ronin-electron.git",
+  "author": "hundredrabbits, neauoire, noobusdeer",
+  "devDependencies": {
+    "electron": "^1.4.13",
+    "electron-packager": "^8.4.0"
+  }
+}
